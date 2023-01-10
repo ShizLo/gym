@@ -13,7 +13,7 @@ $fontFamily: "";
 $minWinth: 320px;
 $maxWidth: 1152px; //Ширина полотна
 $maxWidthContainer: 856px;
-$md1: calc(#{$maxWidthContainer} + 12px);
+$md1: calc($maxWidthContainer + 12px);
 $md2: 991.98;
 $md3: 767.98;
 $md4: 479.98;
